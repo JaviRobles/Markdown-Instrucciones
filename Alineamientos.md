@@ -42,7 +42,7 @@
 
 
 
-Mi Grafica:
+##Mi Grafica:
 
 
 ![pastel](pastel.png)

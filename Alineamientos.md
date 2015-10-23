@@ -42,5 +42,10 @@
 
 
 
+Mi Grafica:
+
+
+![pastel](pastel.png)
+
 
  
